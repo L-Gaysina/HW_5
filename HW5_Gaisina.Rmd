@@ -13,13 +13,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 # Загрузка необходимых библиотек
-library(readr)
 library(ggplot2)
 library(tidyverse)
 library(car)
 library(survival)
-library(survminer)
 library(ggsurvfit)
+library(survminer)
 ```
 
 ## Задание 1 (2 балла)
